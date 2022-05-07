@@ -45,7 +45,7 @@ public class LearnConstructor {
         LearnConstructor obj3=new LearnConstructor(33);
 
 
-        LearnConstructor obj1=new LearnConstructor(44,"michel");
+        LearnConstructor obj1=new LearnConstructor(45,"michel");
        // LearnConstructor obj2=new LearnConstructor(55,"david",5000.00);
 
     }
